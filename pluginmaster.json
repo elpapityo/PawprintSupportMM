@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "Elpa",
+    "Name": "Pawprint Support MM",
+    "InternalName": "PawprintSupportMM",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Pawprint Supportのマルチモニター対応版です。FF14ウィンドウ位置を基準にPawprintの判定範囲を追従し、闘獣練の補助を行います。",
+    "Punchline": "Pawprint Support マルチモニター対応版",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/elpapityo/PawprintSupportMM/releases/download/V0.1.0/PawprintSupportMM_v0.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/elpapityo/PawprintSupportMM/releases/download/V0.1.0/PawprintSupportMM_v0.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/elpapityo/PawprintSupportMM/releases/download/V0.1.0/PawprintSupportMM_v0.1.0.zip",
+    "IconUrl": "https://raw.githubusercontent.com/elpapityo/PawprintSupportMM/main/images/icon.png?v=0.1.0",
+    "Tags": [
+      "Pawprint",
+      "Support",
+      "MultiMonitor",
+      "闘獣練"
+    ],
+    "TestingAssemblyVersion": "0.1.0.0"
+  }
+]
